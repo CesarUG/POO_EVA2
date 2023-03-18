@@ -1,0 +1,6 @@
+com\mycompany\eva2_15_tienda\EVA2_15_TIENDA.class
+SUPERCLASES\Ropa.class
+SUPERCLASES\PRODUCTO.class
+PRODUCTOS\Computer.class
+SUPERCLASES\Electronica.class
+PRODUCTOS\Shirt.class
